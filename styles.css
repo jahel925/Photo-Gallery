@@ -1,0 +1,23 @@
+body{
+text-align: center;
+background-image:url('https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80');
+}
+
+.img img{
+height:200px;
+ width:300px;
+}
+
+h1{
+color:saddlebrown;
+font-family: 'Oswald', sans-serif;
+font-size:45px;
+}
+
+p{
+font-family: 'Oswald', sans-serif;
+}
+
+button{
+color:brown;
+}
